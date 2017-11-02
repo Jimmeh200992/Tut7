@@ -6,7 +6,7 @@
 #include <ctime>	//for time used in random number routines
 #include <iostream>	//for srand, cin >> & cout <<
 #include <string>	//for string routines
-using namespace std;  // Sample change
+using namespace std;
 
 #include "RandomNumberGenerator.h"
 #include "Score.h"
@@ -31,5 +31,8 @@ int main()
 	cout << "\n________________________\n";
 
 	system("pause");
+	cout << "Some more changes";
 	return 0;
-}
+} // Another commit
+//Some other commits
+//And some more
