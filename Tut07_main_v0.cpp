@@ -31,8 +31,5 @@ int main()
 	cout << "\n________________________\n";
 
 	system("pause");
-	cout << "Some more changes";
 	return 0;
-} // Another commit
-//Some other commits
-//And some more
+}
